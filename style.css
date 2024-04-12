@@ -1,0 +1,9 @@
+.bg-box {
+  height: 100vh;
+  background: url(./images/green-png-44873.png), url(./images/house-png-189.png),
+    url(./images/lamp-png-34920.png), url(./images/donate.png),
+    url(./images/Ёжик.png), green;
+  background-size: 20%, 30%, 5%, 5%, 5%;
+  background-repeat: repeat-x, no-repeat, repeat-x, repeat-y, repeat-y;
+  background-position: bottom, center center, top, left, right;
+}
